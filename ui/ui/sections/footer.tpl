@@ -2,7 +2,7 @@
         </div>
         <footer class="main-footer">
             <div class="pull-right" id="version" onclick="location.href = '{$_url}community#latestVersion';"></div>
-            Billing by JMLapido
+            Custom System for TechnoHub Networks by JMLapido
         </footer>
         </div>
         <script src="ui/ui/scripts/jquery.min.js"></script>
